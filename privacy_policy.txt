@@ -1,0 +1,13 @@
+Privacy policy for this app Daily
+
+Developer information and privacy point of contact:
+  Natalie Hollenbaugh (me)
+  nahollenbaugh@gmail.com
+Types of personal and sensitive user data this app accesses, collects, and shares:
+  This app need not interact with any personnal or sensitive data.  Information entered in the app, including time stamps and plain text fields, is stored locally for later use and is available only to the user through the app interface.  
+Parties with which personal or sensitive data are shared: 
+  No personal or sensitive data is shared.
+Secure data handling procedures for personal and sensitive user data: 
+  I don't know anything about secure data handling procedures, but thankfully this app does not interact with any personnal or sensitive data other than to store information entered by the user locally for later use on the device.  Information is as safe as Google's ability to protect against mistakes by inexperienced hobbyist developers.  
+Data retention and deletion policy:
+  Data entered by the user on the app is stored only locally so is automatically deleted when the app is uninstalled.  
